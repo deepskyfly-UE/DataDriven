@@ -1,3 +1,6 @@
 /Intermediate/
 /.vscode/
 *.code-workspace
+/Binaries/
+/DerivedDataCache/
+/Saved/
